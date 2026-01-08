@@ -42,14 +42,16 @@ npm run dev
 
 La aplicación estará disponible en: http://localhost:5173
 
-🏗️ Estructura del Proyecto
+## 🏗️ Estructura del Proyecto
+
 src/api.js: Centralización de peticiones HTTP con Axios. Implementa el CRUD completo (GET, POST, PUT, DELETE).
 
 src/App.vue: Componente principal. Gestiona la lógica de estados, renderizado de tablas, validaciones y el sistema de modales.
 
 src/style.css: Configuración de Tailwind CSS v4 y estilos globales personalizados en modo oscuro.
 
-📌 Funcionalidades Implementadas
+## 📌 Funcionalidades Implementadas
+
 ✅ Listado en tiempo real: Conexión síncrona con PostgreSQL a través de Flask.
 
 ✅ Gestión de Stock Crítico: Indicadores visuales automáticos (alertas en rojo) para productos con menos de 10 unidades.
@@ -58,4 +60,3 @@ src/style.css: Configuración de Tailwind CSS v4 y estilos globales personalizad
 
 ✅ Diseño Premium: Interfaz responsiva adaptada para entornos de trabajo técnicos y soporte.
 
-Desarrollado por Samir Cornejo Web & Mobile Developer
