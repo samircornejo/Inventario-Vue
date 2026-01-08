@@ -38,6 +38,8 @@ Para iniciar el servidor de desarrollo con **Hot Module Replacement (HMR)**:
 
 ```bash
 npm run dev
+```
+
 La aplicación estará disponible en: http://localhost:5173
 
 🏗️ Estructura del Proyecto
