@@ -11,7 +11,7 @@ Este es el panel de control para el **Sistema de Gestión de Inventarios (IMS)**
 
 ## 📋 Requisitos Previos
 
-1. **API Backend:** Tener configurada y corriendo la API de este proyecto: [AQUÍ_TU_LINK_DE_GITHUB_DE_LA_API]
+1. **API Backend:** Tener configurada y corriendo la API de este proyecto: https://github.com/samircornejo/Api-Flask-Inventario
 2. **Entorno de Ejecución:** [Node.js](https://nodejs.org/) (Versión 18 o superior)
 3. **Gestor de Paquetes:** `npm` o `pnpm`
 
@@ -19,7 +19,7 @@ Este es el panel de control para el **Sistema de Gestión de Inventarios (IMS)**
 
 1. **Clonar el repositorio:**
     ```bash
-    git clone [TU_LINK_AQUÍ]
+    git clone https://github.com/samircornejo/Inventario-Vue.git
     cd frontend-inventario
     ```
 
