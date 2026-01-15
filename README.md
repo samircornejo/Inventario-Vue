@@ -1,6 +1,6 @@
-# 🚀 FRAVATEL IMS - Frontend (Vue 3 + Vite)
+# 🚀 IMS - Frontend (Vue 3 + Vite)
 
-Este es el panel de control para el **Sistema de Gestión de Inventarios (IMS)** desarrollado para la empresa **FRAVATEL E.I.R.L.** La interfaz ha sido diseñada para optimizar las actividades del área de soporte, permitiendo un control eficiente de repuestos y productos.
+Este es el panel de control para el **Sistema de Gestión de Inventarios (IMS) La interfaz ha sido diseñada para optimizar las actividades del área de soporte, permitiendo un control eficiente de repuestos y productos.
 
 ## 🛠️ Tecnologías Utilizadas
 
